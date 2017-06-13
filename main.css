@@ -1,0 +1,21 @@
+*{box-sizing:border-box;}
+.body{
+	font-family: 'Handlee', cursive;
+	 background-color: #fef65b;
+	 color: #0c0c0c;
+	 margin:0;
+
+}
+.contentWidth{
+	 padding:1em;
+	 margin: 0 auto;
+	 width:100%;
+	 max-width:960px;
+}
+
+.connie{
+	text-align: center;
+	float:inherit;
+	padding-top: 30%;
+	font-size: 50px;
+}
